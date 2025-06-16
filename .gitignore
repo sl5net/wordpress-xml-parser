@@ -1,0 +1,4 @@
+*.txt*
+*.xml*
+parse_wp.py *
+.tempResults
